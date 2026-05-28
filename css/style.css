@@ -1,0 +1,15 @@
+body {
+background-color: aquamarine;
+text-align: center;
+color: aliceblue;
+font-weight: 700;
+font-size: 2rem;
+margin-top: 1rem;
+}
+
+.mainImg{
+    width: 100%;
+}
+.heading{
+    color: #000;
+}
